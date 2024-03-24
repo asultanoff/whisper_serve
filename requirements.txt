@@ -1,0 +1,4 @@
+transformers[torch]>=4.23
+librosa
+soundfile
+faster-whisper
